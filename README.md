@@ -1,4 +1,5 @@
 Repositório para desenvolvimento da pesquisa em métodos computacionais no estudo da linguagem e cognição. 
+
 Leituras até o nosso próximo checkpoint (dia 22/04):
 
 1. Capítulos 1 e 2 do NLTK book: https://www.nltk.org/book/
